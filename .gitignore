@@ -1,1 +1,5 @@
 .cursor/term-mapping.json
+
+# WIP task directories (보안 점검 통과 전 비공개 / private until security review passes)
+.project/
+
